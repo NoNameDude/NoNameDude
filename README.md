@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoNameDude
-- 👀 I’m interested in Python, Lua, Golang, Java, C#, Rust, html, css, typescript and a lot more
-- 🌱 I’m currently learning C#, Rust
+- 👀 Skills: Python, Lua, Java, Rust, html, css, shell-script
+- 🌱 I’m currently learning: C#, Rust, Golang, typescript
 
 # Mainly working on minetest mods / servers and Crypto Currencies
 <!---
