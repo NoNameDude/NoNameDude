@@ -23,6 +23,6 @@
 <code> C++ </code>
 
 <h2 align="center"> My stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoNameDude&show_icons=true&locale=en&layout=compact" alt="NoNameDude" height="195" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=NoNameDude&show_icons=true&locale=en&layout=compact" alt="NoNameDude" height="195" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=NoNameDude&show_icons=true&locale=en" alt="NoNameDude" height="195" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=NoNameDude&show_icons=true&locale=en" alt="NoNameDude" height="195" /></p>
