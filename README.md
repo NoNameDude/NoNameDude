@@ -13,7 +13,9 @@
 <Code>Lua</code>
 <Code>Python</code>
 <Code>Golang</code>
+<Code>Java</code>
 <Code>Html</code>
+<Code>PhP</code>
 <Code>Css</code>
 <Code>Shell-script</code>
 <Code>Linux</code>
