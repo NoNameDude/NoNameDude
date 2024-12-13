@@ -1,5 +1,5 @@
 <h1 align="center">Hey I am NoNameDude</h1>
-<h2 align="center"> 📫 Contact me: Discord NoNameDude#7915</h2>
+<h2 align="center"> 📫 Contact me: Discord _nonamedude</h2>
 <h3 align="center">I can also work in a team and can be hired for jobs. Payment only in crypto thanks.</h3>
 <h2 align="center">Donations</h2>
 <p align="center">
