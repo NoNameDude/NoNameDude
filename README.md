@@ -2,7 +2,9 @@
 <h2 align="center"> 📫 Contact me: Discord NoNameDude#7915</h2>
 <h3 align="center">I can also work in a team and can be hired for jobs. Payment only in crypto thanks.</h3>
 <h2 align="center">Donations</h2>
-<p align="center">Doge: DER8kUTfpZMFW1hPJ8wjr9NCZa3Dq8RcTU</p>
+<p align="center">
+  Dingocoin: DNqcvZzW8vR4w9xZ3mY6w1pYayTD8RV8Kr
+</p>
 <h2 align="center"> My achievements:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoNameDude&row=1&column=7&theme=discord" alt="NoNameDude" /></a> </p>
 
